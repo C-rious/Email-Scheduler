@@ -41,5 +41,4 @@ A simple backend system built using **Node.js**, **Express**, **MongoDB**, and *
 ---
 
 ![Image](image1.png)
-git clone https://github.com/<your-username>/email-campaign-scheduler.git
-cd email-campaign-scheduler
+
